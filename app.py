@@ -5,8 +5,8 @@ app = Flask(__name__)
 JOBS = [
   {
     'id': 1,
-    'title': 'Geiler Typ Vollzeit',
-    'location': 'bei mir, Wien',
+    'title': 'Test Scientist',
+    'location': 'Test1, Vienna',
   },
   {
     'id': 2,
@@ -15,8 +15,8 @@ JOBS = [
   },
   {
     'id': 3,
-    'title': 'Hure der Reichen',
-    'location': 'OEVP, Wien',
+    'title': 'Test Analyst',
+    'location': 'Test2, Vienna',
   }
 ]
 
